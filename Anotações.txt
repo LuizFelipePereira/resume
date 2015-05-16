@@ -1,0 +1,15 @@
+git clone https://github.com/LuizFelipePereira/resume .  //fazer o clone de um repositorio do git para o computador
+ . -> para não criar o diretorio, para colocar no diretorio corrente
+
+git config --global "NOME"
+git config --global "EMAIL"
+
+criar gh-pages para hospedar o site no github
+
+seletor id no css não pode repetir tem que ser unico
+
+
+Ler sobre CSS BOX-MODEL
+
+POCKET
+
